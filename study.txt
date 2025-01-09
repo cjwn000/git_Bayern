@@ -30,3 +30,6 @@ git push --set-upstream origin develop 를 써주었다. 이제 push! 하하 또
 
 5. 
 수정 및 merge 해보기~ 뭘 merge 하라는 거야... 일단 master branch가 필요없으니 main branch로 checkout해서 둘이 합처보겠다. 아 진짜 식겁했다. 여기서 커밋해두고 가야지...
+
+6.
+main, develop branch 다 github 반영 우와 날먹할수있다. 왜냐면 다 push해뒀거든! 근데 반영에 다른 게 있나? 일단 찾아보긴 하겠다. 없다. 끝.
