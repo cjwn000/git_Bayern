@@ -23,5 +23,6 @@ git push origin --delete master 을 했지만 푸시에 실패했다고 뜸. 원
 4.
 develop branch 만들기, 어디에다 만들라는 것일까... 일단 로컬에서 git checkout -b develop을 쳐서 만들고 이동시키는걸로 만들었다.
 그러고 git push origin develop을 쳐서 원격 저장소에 올렸고 제대로 되었는지 깃허브에 확인하러 가겠음. 생겼다! 야호~
-
+안돼.. 커밋을 잘못한 거 같다. log로 커밋 아이디를 확인하고 revert한다음 브랜치를 main으로 해서 커밋 후 push해야지.
+revert에서 에러가 났다. 다른 브랜치에서 했기 때문으로 보인다. 무식하게 git revert --continue를 해보겠다. 병합하지 않은 폴더 해결하란다.
 
