@@ -1,3 +1,16 @@
 안녕하세요!
 ^_^ git 테스트 하는 중~
 로그인시도 5번쨰, 뭔지는 모르겠지만 서버 오류가 해결되어서 첫 파일을 github에 올렸다. 근데 생각해보니 version2만 올라가잖아~~ 새 버전이 커밋되는지도 확인하려면 한 번 더 해야겠지? ㅎㅎㅎ
+으ㅏㅇ아아ㅏ아ㅏㅏ
+
+gitignore 검색
+branch master -> main 
+github 에도 master -> main + default branch 가 뭔지 알아보기
+develop branch 만들기
+수정 및 merge 해보기
+main, develop branch 다 github 반영
+
+yolo_어쩌구 git remote 정보를 이용해서 어느 레포에서 가져왔는지 확인
+git pull 로 그 repo 에 바뀐 부분 가져오기 <- 안되면 얘기
+
+파일 바꿀 때마다 commit
