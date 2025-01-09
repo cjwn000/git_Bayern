@@ -33,3 +33,9 @@ git push --set-upstream origin develop 를 써주었다. 이제 push! 하하 또
 
 6.
 main, develop branch 다 github 반영 우와 날먹할수있다. 왜냐면 다 push해뒀거든! 근데 반영에 다른 게 있나? 일단 찾아보긴 하겠다. 없다. 끝.
+
+7.
+yolo_어쩌구 git remote 정보를 이용해서 어느 레포에서 가져왔는지 확인.. yolo_어쩌구가 있는 로컬에 가서 git remote -v를 써보겠다. 뒤에 url이 어디서 온건지 알 수 있도록 해주겠지.
+origin  http://192.168.10.99:8080/laboratory/atelier_capture_yolo4.git (fetch)
+origin  http://192.168.10.99:8080/laboratory/atelier_capture_yolo4.git (push) 라고 한다. git show로 더 볼 수 있다고 한다~
+
